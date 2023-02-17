@@ -9,4 +9,7 @@ import { Personaje } from '../interfaces/bdz.interface';
 export class PersonajesComponent {
 
 @Input() personajes: Personaje[] = [];
+
+
+
 }
